@@ -10,7 +10,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class BookAppApplicationTests {
 
 	@Test
-	public void contextLoads() {
+	public void methodName(){
+		System.out.println("Karimulla");
 	}
 
 }
